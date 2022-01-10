@@ -17,16 +17,18 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!-- 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+-->
 
 
 <!-- PROJECT LOGO -->
+<!-- 
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
@@ -48,10 +50,11 @@
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
-
+-->
 
 
 <!-- TABLE OF CONTENTS -->
+<!-- 
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -76,13 +79,26 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+ -->
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT THE REPOSITORY -->
+## About The Repository
+ 
+This repository is based on the outstading course **[CS224W: Machine Learning with Graphs](http://snap.stanford.edu/class/cs224w-2020/)** taugh by Prof. Jure Leskovec and made freely available by Stanford University. We created a **Study Group** in the [Connectivity Section](https://www.es.aau.dk/sections-labs/connectivity/) of the Department of Electronic Systems at Aalborg University, Aalborg, Denmark. The goal of the Study Group was to follow the schedule made avaiable considering the offering **CS22W: Winter 2020**. Recorded lectures are avaiable on YouTube in the channel: stanfordonline in the following [link](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&ab_channel=stanfordonline).
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+The Study Groupy was held during the Winter 2021 and is made up of the following active members:
+* Andreas Casparsen - aca@es.aau.dk <!-- - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com -->
+* Josefine Holm - jho@es.aau.dk
+* Tobias Kallehauge - tkal@es.aau.dk
+* Victor Croisfelt[@victorcroisfelt](https://twitter.com/victorcroisfelt) - vcr@es.aau.dk <!-- -  - email@email_client.com -->
+
+<!--
+[Link text Here](https://link-url-here.org)
+
+Solutions for the Stanford course CS224W: Machine Learning with Graphs provided by a study group comprised of students from the Connectivity Section of the Department of Electronic Systems at Aalborg University, Aalborg, Denmark.
+
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
@@ -102,10 +118,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+-->
 
 
 <!-- GETTING STARTED -->
+<!--
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -138,8 +155,9 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
+ -->
 <!-- USAGE EXAMPLES -->
+<!--
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -149,8 +167,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
+ -->
 <!-- ROADMAP -->
+<!--
 ## Roadmap
 
 - [] Feature 1
@@ -161,10 +180,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+-->
 
 
 <!-- CONTRIBUTING -->
+<!--
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -180,18 +200,20 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+ -->
 
 <!-- LICENSE -->
+<!--
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+-->
 
 <!-- CONTACT -->
+<!--
 ## Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
@@ -199,10 +221,11 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+ -->
 
 
 <!-- ACKNOWLEDGMENTS -->
+<!--
 ## Acknowledgments
 
 * []()
@@ -210,11 +233,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+ -->
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!--
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
@@ -228,3 +252,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
+-->
