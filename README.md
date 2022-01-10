@@ -93,7 +93,8 @@ The Study Group was held during the Winter 2021 and was made up of the following
 * Josefine Holm - jho@es.aau.dk
 * Tobias Kallehauge - tkal@es.aau.dk
 * Victor Croisfelt - [@victorcroisfelt](https://twitter.com/victorcroisfelt) - vcr@es.aau.dk <!-- -  - email@email_client.com -->
-under supervision of **Prof. Petar Popovski** - [@PopovskiPetar](https://twitter.com/PopovskiPetar) - petarp@es.aau.dk.
+
+Supervision of **Prof. Petar Popovski** - [@PopovskiPetar](https://twitter.com/PopovskiPetar) - petarp@es.aau.dk.
 
 ## Content
 In this repository, you can find the solution of **6 Colabs** and  **3 Homeworks** made avaiable at [CS224W: Machine Learning with Graphs](http://snap.stanford.edu/class/cs224w-2020/). The list of contents is as follows
