@@ -88,11 +88,56 @@
  
 This repository is based on the outstading course **[CS224W: Machine Learning with Graphs](http://snap.stanford.edu/class/cs224w-2020/)** taugh by Prof. Jure Leskovec and made freely available by Stanford University. We created a **Study Group** in the [Connectivity Section](https://www.es.aau.dk/sections-labs/connectivity/) of the Department of Electronic Systems at Aalborg University, Aalborg, Denmark. The goal of the Study Group was to follow the schedule made avaiable considering the offering **CS22W: Winter 2020**. Recorded lectures are avaiable on YouTube in the channel: stanfordonline in the following [link](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&ab_channel=stanfordonline).
 
-The Study Groupy was held during the Winter 2021 and is made up of the following active members:
+The Study Group was held during the Winter 2021 and was made up of the following active members:
 * Andreas Casparsen - aca@es.aau.dk <!-- - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com -->
 * Josefine Holm - jho@es.aau.dk
 * Tobias Kallehauge - tkal@es.aau.dk
-* Victor Croisfelt[@victorcroisfelt](https://twitter.com/victorcroisfelt) - vcr@es.aau.dk <!-- -  - email@email_client.com -->
+* Victor Croisfelt - [@victorcroisfelt](https://twitter.com/victorcroisfelt) - vcr@es.aau.dk <!-- -  - email@email_client.com -->
+under supervision of **Prof. Petar Popovski** - [@PopovskiPetar](https://twitter.com/PopovskiPetar) - petarp@es.aau.dk.
+
+## Content
+In this repository, you can find the solution of **5 Colabs** and  **3 Homeworks** made avaiable at [CS224W: Machine Learning with Graphs](http://snap.stanford.edu/class/cs224w-2020/). The list of contents is as follows
+
+- Colab 1
+- Colab 2
+- Colab 3
+- Colab 4
+- Colab 5
+- Homework 1
+- Homework 2
+- Homework 3
+
+The contents are divided into folders. *Note:* Some of them have more them one version. The author of each file is maked by the string "_authorname" appended to the end of the file name.
+
+<!-- LICENSE -->
+## License
+
+All the contents of the course is property of the Standford University. We do not provide any course material. Those can be found on the websites mentioed above. We just uploaded our solutions to the problems.
+
+
+<!--
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+-->
+
+
+<!--
+See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+-->
+
+
+<!-- LICENSE -->
+<!--
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+-->
+
 
 <!--
 [Link text Here](https://link-url-here.org)
@@ -168,18 +213,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
  -->
-<!-- ROADMAP -->
-<!--
-## Roadmap
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 -->
 
 
