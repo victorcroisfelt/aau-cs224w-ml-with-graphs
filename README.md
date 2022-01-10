@@ -108,16 +108,16 @@ In this repository, you can find the solution of **6 Colabs** and  **3 Homeworks
 - Homework 2 :x:
 - Homework 3 :x:
 
-The contents are divided into folders. *Note:* Some of them have more them one version. The author of each file is maked by the string "_authorname" appended to the end of the file name.
+The contents are divided into folders. *Note:* Some of them have more than one version. The author of each file is maked by the string "_authorfirstname" appended to the end of the file name.
 
 <!-- LICENSE -->
 ## License
 
-All the contents of the course is property of the Standford University. We do not provide any course material. Those can be found on the websites mentioed above. We just uploaded our solutions to the problems.
+All the contents of the course is property of Standford University. We do not provide any course material. Those can be found on the websites mentioned above. Here, we just uploaded our solutions to the problems in the hope to help and get feedback from the community :woman_technologist::man_technologist:!
 
 We are very grateful to Stanford University and to Prof. Jure Leskovec and his team for making this course available.
 
-Keep learning! :brain:
+**Always keep learning! :brain:**
 
 
 <!--
