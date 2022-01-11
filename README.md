@@ -118,7 +118,7 @@ All the contents of the course is property of Standford University. We do not pr
 
 We are very grateful to Stanford University and to Prof. Jure Leskovec and his team for making this course available.
 
-**Always keep learning! :brain:**
+**Always keep learning! :brain::vulcan_salute:**
 
 
 <!--
