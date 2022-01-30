@@ -103,11 +103,11 @@ In this repository, you can find the solution of **6 Colabs** and  **3 Homeworks
 - Colab 1 :white_check_mark:
 - Colab 2 :white_check_mark:
 - Colab 3 :white_check_mark:
-- Colab 4 :x:
-- Colab 5 :x:
+- Colab 4 :white_check_mark:
+- Colab 5 :white_check_mark:
 - Homework 1 :white_check_mark:
-- Homework 2 :x:
-- Homework 3 :x:
+- Homework 2 :white_check_mark:
+- Homework 3 :white_check_mark:
 
 The contents are divided into folders. *Note:* Some of them have more than one version. The author of each file is marked by the string "_authorfirstname" appended to the end of the file name.
 
